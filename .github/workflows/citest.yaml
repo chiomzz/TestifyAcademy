@@ -21,3 +21,8 @@ jobs:
      - run: python pythonTasks\task_12.py
      - run: python pythonTasks\task_13.py
      - run: python pythonTasks\task_14.py
+     - run: node jsCodingChallengeWilliamAndChioma\challenge1.js
+     - run: node jsTasks\task5.js
+     - run: node jsTasks\task6.js
+     - run: node jsTasks\task6i.js
+     - run: node jsTasks\task7.js
