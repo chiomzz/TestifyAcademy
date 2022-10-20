@@ -25,7 +25,6 @@ jobs:
      - run: python pythonTasks\task_16.py
      - run: python pythonTasks\task_17.py
      - run: python pythonTasks\task_18.py
-     - run: python pythonTasks\task_19.py
      - run: python pythonTasks\task_20.py
      - run: python pythonTasks\task_21.py
      - run: python pythonTasks\task_22.py
