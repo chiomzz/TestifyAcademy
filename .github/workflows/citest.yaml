@@ -21,8 +21,34 @@ jobs:
      - run: python pythonTasks\task_12.py
      - run: python pythonTasks\task_13.py
      - run: python pythonTasks\task_14.py
+     - run: python pythonTasks\task_15.py
+     - run: python pythonTasks\task_16.py
+     - run: python pythonTasks\task_17.py
+     - run: python pythonTasks\task_18.py
+     - run: python pythonTasks\task_19.py
+     - run: python pythonTasks\task_20.py
+     - run: python pythonTasks\task_21.py
+     - run: python pythonTasks\task_22.py
+     - run: python pythonTasks\task_23.py
+     - run: python pythonTasks\task_24.py
+     - run: python pythonTasks\task_25.py
      - run: node jsCodingChallengeWilliamAndChioma\challenge1.js
+     - run: node jsCodingChallengeWilliamAndChioma\challenge2.js
+     - run: node jsCodingChallengeWilliamAndChioma\challenge3.js
+     - run: node jsCodingChallengeWilliamAndChioma\challenge4.js
+     - run: node jsCodingChallengeWilliamAndChioma\challenge5.js
+     - run: node jsCodingChallengeWilliamAndChioma\challenge6.js
+     - run: node jsCodingChallengeWilliamAndChioma\challenge7.js
+     - run: node jsCodingChallengeWilliamAndChioma\challenge8.js
+     - run: node jsCodingChallengeWilliamAndChioma\challenge9.js
+     - run: node jsCodingChallengeWilliamAndChioma\challenge10.js
      - run: node jsTasks\task5.js
      - run: node jsTasks\task6.js
      - run: node jsTasks\task6i.js
      - run: node jsTasks\task7.js
+     - run: node jsTasks\task8.js
+     - run: node jsTasks\task8i.js
+     - run: node jsTasks\task9.js
+     - run: node jsTasks\task12.js
+     - run: node jsTasks\task13.js
+     - run: node jsTasks\task14.js
