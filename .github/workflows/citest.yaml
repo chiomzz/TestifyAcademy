@@ -7,3 +7,16 @@ jobs:
      - uses: actions/checkout@v2
      - run: echo "The job was automatically triggered by a ${{ github.event_name }} event"
      - run: python main.py
+     - run: python pythonTasks\task_1.py
+     - run: python pythonTasks\task_2.py
+     - run: python pythonTasks\task_3.py
+     - run: python pythonTasks\task_4.py
+     - run: python pythonTasks\task_5.py
+     - run: python pythonTasks\task_6.py
+     - run: python pythonTasks\task_7.py
+     - run: python pythonTasks\task_8.py
+     - run: python pythonTasks\task_9.py
+     - run: python pythonTasks\task_10.py
+     - run: python pythonTasks\task_11.py
+     - run: python pythonTasks\task_12.py
+     - run: python pythonTasks\task_13.py
