@@ -19,7 +19,7 @@ function countVowel(text){
         return count
 }
   // Take input
-const data = prompt('Return the number of vowels in a string: ')
+//const data = prompt('Return the number of vowels in a string: ')
 
 const output = countVowel(data)
 console.log(output)
